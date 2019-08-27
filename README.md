@@ -9,3 +9,4 @@ My projects for the "The Rust Programming Language" book.
 - [x] Chapter 5
 - [x] Chapter 6
 - [x] Chapter 7
+- [x] Chapter 8
