@@ -14,3 +14,4 @@ My projects for the "The Rust Programming Language" book.
 - [x] Chapter 10
 - [x] Chapter 11
 - [x] Chapter 12
+- [x] Chapter 13
